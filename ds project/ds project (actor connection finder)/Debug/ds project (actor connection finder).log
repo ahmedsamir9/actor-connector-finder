@@ -1,0 +1,19 @@
+﻿  main.cpp
+  mlist.cpp
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(99): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(156): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(182): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(186): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(208): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(238): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(241): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(255): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(266): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(304): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(315): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(317): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(420): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(423): warning C4018: '<': signed/unsigned mismatch
+e:\projects\ds project\ds project (actor connection finder)\mlist.cpp(346): warning C4101: 'id': unreferenced local variable
+  Generating Code...
+  ds project (actor connection finder).vcxproj -> E:\projects\ds project\Debug\ds project (actor connection finder).exe
